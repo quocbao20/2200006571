@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\iconreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\iconreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\gleyaboutwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\gleyaboutwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\editorfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\editorfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\assetversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\assetversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\assetversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\assetversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\assetstorepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\assetstorepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\gleyplugins\\about\\editor\\assetstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BD2C8-292D-EA68-600C-F997C47EFD9C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\gleyplugins\\about\\editor\\assetstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\realisticcarcontrollerv3\\addon packages\\for xbox \u0026 ps4 inputs\\export it to \u0027projectsettings\u0027 folder.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|solutionrelative:assets\\realisticcarcontrollerv3\\addon packages\\for xbox \u0026 ps4 inputs\\export it to \u0027projectsettings\u0027 folder.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\realisticcarcontrollerv3\\addon packages\\for proflares\\readme!.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|solutionrelative:assets\\realisticcarcontrollerv3\\addon packages\\for proflares\\readme!.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|c:\\users\\acer\\downloads\\new folder\\car_mega_ramp\\assets\\shader\\toon_lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8BAD605B-FCB8-10DF-924A-63F1002E1111}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\toon_lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "finishline.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\scripts\\finishline.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\finishline.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\scripts\\finishline.cs",
+              "RelativeToolTip": "Assets\\scripts\\finishline.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:29:42.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IconReferences.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\IconReferences.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\IconReferences.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\IconReferences.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\IconReferences.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:35.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GleyAboutWindow.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\GleyAboutWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\GleyAboutWindow.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\GleyAboutWindow.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\GleyAboutWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditorFileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\EditorFileLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\EditorFileLoader.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\EditorFileLoader.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\EditorFileLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssetVersions.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetVersions.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\AssetVersions.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetVersions.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\AssetVersions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssetVersion.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetVersion.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\AssetVersion.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetVersion.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\AssetVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:24.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssetStorePackage.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetStorePackage.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\AssetStorePackage.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetStorePackage.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\AssetStorePackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:22.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetState.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetState.cs",
+              "RelativeDocumentMoniker": "Assets\\GleyPlugins\\About\\Editor\\AssetState.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\GleyPlugins\\About\\Editor\\AssetState.cs",
+              "RelativeToolTip": "Assets\\GleyPlugins\\About\\Editor\\AssetState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:27:21.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Export it to \u0027ProjectSettings\u0027 folder.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\RealisticCarControllerV3\\Addon Packages\\For Xbox \u0026 PS4 Inputs\\Export it to \u0027ProjectSettings\u0027 folder.txt",
+              "RelativeDocumentMoniker": "Assets\\RealisticCarControllerV3\\Addon Packages\\For Xbox \u0026 PS4 Inputs\\Export it to \u0027ProjectSettings\u0027 folder.txt",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\RealisticCarControllerV3\\Addon Packages\\For Xbox \u0026 PS4 Inputs\\Export it to \u0027ProjectSettings\u0027 folder.txt",
+              "RelativeToolTip": "Assets\\RealisticCarControllerV3\\Addon Packages\\For Xbox \u0026 PS4 Inputs\\Export it to \u0027ProjectSettings\u0027 folder.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-09T05:26:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Readme!.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\RealisticCarControllerV3\\Addon Packages\\For ProFlares\\Readme!.txt",
+              "RelativeDocumentMoniker": "Assets\\RealisticCarControllerV3\\Addon Packages\\For ProFlares\\Readme!.txt",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\RealisticCarControllerV3\\Addon Packages\\For ProFlares\\Readme!.txt",
+              "RelativeToolTip": "Assets\\RealisticCarControllerV3\\Addon Packages\\For ProFlares\\Readme!.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-09T05:26:38.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Toon_Lit.shader",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\Shader\\Toon_Lit.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Toon_Lit.shader",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\New folder\\Car_Mega_Ramp\\Assets\\Shader\\Toon_Lit.shader",
+              "RelativeToolTip": "Assets\\Shader\\Toon_Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-09T05:26:29.58Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
